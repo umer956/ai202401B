@@ -1,2 +1,2 @@
 # ai202401B
-test
+This is fisrt commint form computer
